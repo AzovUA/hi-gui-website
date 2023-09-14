@@ -5,6 +5,7 @@ include '../include/header.php';
 
 <main>
     <section id="hi" class="hero">
+        
         <h2>You have finally found a powerful library for your GUIs in OpenGL metauniverse.</h2>
 
         <p>hiGUI provides a lightweight GUI implementation into your C++ code.
@@ -12,14 +13,25 @@ include '../include/header.php';
         and <a href="https://www.glfw.org/">GLFW</a> to draw GUI and handle events.</p>
 
         <a href="doc.php" class="cta-button">Learn More</a>
+        
     </section>
 
     <div class="carousel">
-        <div class="carousel__item"><img src="image/gui-examples/screenshot-1.jpg"></div>
-        <div class="carousel__item"><img src="image/gui-examples/screenshot-2.jpg"></div>
-        <div class="carousel__item"><img src="image/gui-examples/screenshot-3.jpg"></div>
-        <div class="carousel__item"><img src="image/gui-examples/screenshot-4.jpg"></div>
-        <div class="carousel__item"><img src="image/gui-examples/screenshot-5.jpg"></div>
+        <div class="carousel__item">
+            <img src="image/gui-examples/screenshot-1.jpg">
+        </div>
+        <div class="carousel__item">
+            <img src="image/gui-examples/screenshot-2.jpg">
+        </div>
+        <div class="carousel__item">
+            <img src="image/gui-examples/screenshot-3.jpg">
+        </div>
+        <div class="carousel__item">
+            <img src="image/gui-examples/screenshot-4.jpg">
+        </div>
+        <div class="carousel__item">
+            <img src="image/gui-examples/screenshot-5.jpg">
+        </div>
     </div>
 
     </br>
